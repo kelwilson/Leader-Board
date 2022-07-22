@@ -8,7 +8,7 @@ const listContainer = document.querySelector('.scores-list');
 const url = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/Snb2WJoQawPVda0Odf0p/scores/';
 
 const renderScore = (gameUsers) => {
-  const gamers = (gameUsers.result);
+  const gamers = gameUsers.result;
   let list = '';
   gamers.forEach((gameUser) => {
     list += `<li>${gameUser.user} : ${gameUser.score}</li>`;
