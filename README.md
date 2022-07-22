@@ -6,10 +6,10 @@
 
 ## Built With
 
-- HTML
-- Css
-- Javascript
-- webpack
+- `HTML`
+- `Css`
+- `Javascript`
+- `webpack`
 
 ## Getting Started
 
@@ -32,10 +32,10 @@ To get a local copy up and run:
 
 ## Run the following tests
 
-- npx hint .
-- npx eslint .
-- npx stylelint "**/*.{css,scss}"
-- npm start
+- `npx hint .`
+- `npx eslint .`
+- `npx stylelint "**/*.{css,scss}"`
+- `npm start`
 
 ## Usage
 
