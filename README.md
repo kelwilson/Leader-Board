@@ -18,7 +18,7 @@ To get a local copy up and run:
 - git clone `(https://github.com/kelwilson/Leader-Board.git)` in your terminal
 
 ## 
-## To see a [Live DEmo](https://kelwilson.github.io/Leader-Board/src/)
+## To see a [Live DEmo](https://kelwilson.github.io/Leader-Board/dist/)
 
 ## Prerequisites
 
